@@ -1,0 +1,6 @@
+J'ai débuté le jeu Mage War Online alors que je commençais tout juste à apprendre la programmation. N'ayant jamais programmé auparavant,
+il m'a fallu plusieurs semaines avant d'avoir un prototype du jeu. Le jeu m'a permis d'apprendre énormément, mais aussi à découvrir
+une passion, la programmation. Évidemment, j'ai fait la conception entière du jeu de façon autodidacte, excepté pour la partie audio. Afin de pouvoir essayer
+le jeu, il faut télécharger le fichier zip "Exécutable de Mage War Online" et y ajouter le contenu du dossier "À ajouter au fichier de
+l'exécutable de Mage War Online". À noter que le jeu contient plusieurs "bugs" et qu'il ne faut pas cliquer sur l'écran lorsque le jeu
+se charge. 
