@@ -1,0 +1,9 @@
+#pragma once
+#include "G_GemAttack.h"
+#include "G_GemAvarice.h"
+#include "G_GemDefense.h"
+#include "G_GemExperience.h"
+#include "G_GemHonor.h"
+#include "G_GemLife.h"
+#include "G_GemSwitfness.h"
+#include "G_GemTime.h"
